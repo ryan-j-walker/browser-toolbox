@@ -1,4 +1,4 @@
-# boxkit
+# browser-toolbox &nbsp; [![boxkit build badge](https://github.com/ryan-j-walker/browser-toolbox/actions/workflows/build-browser.yml/badge.svg)](https://github.com/ryan-j-walker/browser-toolbox/actions/workflows/build-browser.yml)
 
 ## What is boxkit ?
 
