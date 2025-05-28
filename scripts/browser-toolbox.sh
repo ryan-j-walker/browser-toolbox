@@ -9,4 +9,4 @@ dnf upgrade -y
 dnf swap -y ffmpeg-free ffmpeg --allowerasing
 dnf config-manager setopt google-chrome.enabled=1
 dnf upgrade -y
-grep -v '^#' ./browser-toolbox.packages | xargs dnf install -y 
+grep -v '^#' ./browser-toolbox.packages | xargs dnf install -y
